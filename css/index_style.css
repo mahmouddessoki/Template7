@@ -151,6 +151,9 @@ body{
     }
     
 }
+.statistics h4 {
+    font-size: 11px !important;
+}
 #home
 { 
     margin-top: 45px;
